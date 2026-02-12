@@ -2,7 +2,7 @@
 
 Hello,
 
-This repository contains my 2-minute self introduction video submitted as part of academic requirements.
+This repository contains my 1-minute self introduction video submitted as part of academic requirements.
 
 ---
 
