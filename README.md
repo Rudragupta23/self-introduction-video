@@ -47,14 +47,14 @@ I am passionate about technology, software development, and continuous learning.
 
 Click below to watch/download:
 
-[Rudra Gupta – Self Introduction](./Rudra_Gupta_Self_Introduction.mp4)
+[Rudra Gupta – Self Introduction](./self intoduction.mp4)
 
 ---
 
 ## 📬 Contact
 
 Email: 23rudragupta@gmail.com  
-GitHub: https://github.com/yourusername  
+GitHub: https://github.com/Rudragupta23
 
 ---
 
