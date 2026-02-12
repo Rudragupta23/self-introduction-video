@@ -43,13 +43,6 @@ I am passionate about technology, software development, and continuous learning.
 
 ---
 
-## 🎥 Self Introduction Video
-
-Click below to watch/download:
-
-[Rudra Gupta – Self Introduction](./self intoduction.mp4)
-
----
 
 ## 📬 Contact
 
