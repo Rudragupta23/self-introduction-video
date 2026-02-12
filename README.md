@@ -43,6 +43,13 @@ I am passionate about technology, software development, and continuous learning.
 
 ---
 
+## 🎥 Self Introduction Video
+
+<video width="600" controls>
+  <source src="self%20intoduction.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+---
 
 ## 📬 Contact
 
